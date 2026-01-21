@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      antonela.balint
+HostName                       arcturus.etti.tuiasi.ro
+ProcessIdentifier              2381656
+ProcessCreationTime_UTC        1731882013
+ProcessCreationTime_Readable   Mon Nov 18 00:20:13 2024 EET
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ETTI/antonela.balint/projects/BTME/btme/tema4_nand2_test/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Nov 18 00:44:14 2024 EET
