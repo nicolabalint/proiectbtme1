@@ -15,8 +15,6 @@ Proiectul a fost realizat folosind **Cadence Virtuoso** și include:
 
 ## Structura repository-ului
 
-## Structura repository-ului
-
 ```text
 ├── dv1proiect
 │   ├── av_extracted
