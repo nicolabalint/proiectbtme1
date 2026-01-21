@@ -15,66 +15,39 @@ Proiectul a fost realizat folosind **Cadence Virtuoso** și include:
 
 ## Structura repository-ului
 
-├───dv1proiect
-│   ├───av_extracted
-│   ├───layout
-│   ├───schematic
-│   ├───schematic_STERS
-│   └───symbol
-├───dv1proiecttest
-│   └───schematic
-├───layout_nmos
-│   ├───av_extracted
-│   ├───layout
-│   └───schematic
-├───layout_pmos
-│   ├───av_extracted
-│   ├───layout
-│   └───schematic
-├───n
-│   └───schematic
-├───nand2proiect
-│   ├───av_extracted
-│   ├───layout
-│   ├───schematic
-│   └───symbol
-├───nand2proiecttest
-│   └───schematic
-├───nmos_lay
-│   └───schematic
-├───numarator12st
-│   ├───av_extracted
-│   ├───layout
-│   ├───schematic
-│   └───symbol
-├───numarator12sttest
-│   └───schematic
-├───p
-│   └───schematic
-├───tema4_nand2
-│   ├───av_extracted
-│   ├───layout
-│   ├───schematic
-│   └───symbol
-├───tema4_nand2_test
-│   └───schematic
-├───tema5
-│   ├───av_extracted
-│   ├───layout
-│   ├───schematic
-│   └───symbol
-├───tema5_test
-│   └───schematic
-├───tema_inv
-│   ├───av_extracted
-│   ├───layout
-│   ├───schematic
-│   └───symbol
-├───tema_inv_test
-│   └───schematic
-└───TG
-    ├───schematic
-    └───symbol
+Bistabil D (D_v1)
+ ├─ schematic
+ ├─ layout
+ ├─ av_extracted
+ ├─ symbol
+ └─ testbench
+
+Poartă NAND2
+ ├─ schematic
+ ├─ layout
+ ├─ av_extracted
+ ├─ symbol
+ └─ testbench
+
+Numărător asincron (12 stări)
+ ├─ schematic
+ ├─ layout
+ ├─ av_extracted
+ ├─ symbol
+ └─ testbench
+
+Celule elementare
+ ├─ Invertor CMOS
+ ├─ NMOS
+ └─ PMOS
+
+Etape intermediare (teme de laborator)
+ ├─ Tema 4 – NAND2
+ ├─ Tema 5
+ └─ Alte teste
+
+Celule auxiliare
+ └─ TG
 
 ---
 
